@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Yoast\WP\SEO\Introductions\Application\User_Allowed_Trait&quot; not found in <b>D:\xampp\htdocs\portfolio\wp-content\plugins\wordpress-seo\src\introductions\application\ai-fix-assessments-upsell.php</b> on line <b>13</b><br>
